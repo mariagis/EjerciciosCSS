@@ -1,0 +1,17 @@
+ul{
+    margin-left: 20px;
+    Padding: 0;
+    list-style: none;
+}
+li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightgreen;
+    width: 100px;
+}
+ul a:visited{
+    color: rgb(16, 180, 172);
+}
+ul a:hover{
+    color: red;
+}
